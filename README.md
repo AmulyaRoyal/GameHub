@@ -1,6 +1,6 @@
 # 🎮 Game Hub - Python
 
-Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
+Hey, it's **AmulyaRoyal**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
 
 ---
 ## ✨ Features
@@ -66,7 +66,7 @@ Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**,
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GRISHMA-GEDELA/GameHub-Python.git
+   git clone https://github.com/AmulyaRoyal/GameHub.git
    cd GameHub-Python
    ```
 
@@ -88,5 +88,5 @@ Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**,
 
 ---
 ## 🙌 Thank You!
-👩‍💻 **Developed by:** Grishma Gedela ([GRISHMA-GEDELA](https://github.com/GRISHMA-GEDELA), GameHub)
+👩‍💻 **Developed and Modified by:** AmulyaRoyal ([AmulyaRoyal](https://github.com/AmulyaRoyal), GameHub)
 
